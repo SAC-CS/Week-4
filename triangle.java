@@ -56,3 +56,5 @@ public class triangle {
 		      } 
 		} 
 }
+
+// Good job
